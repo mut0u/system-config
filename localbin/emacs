@@ -1,0 +1,3 @@
+echo "this is local emacs"
+
+LC_CTYPE=zh_CN.UTF-8 /usr/bin/emacs

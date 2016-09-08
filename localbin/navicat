@@ -1,0 +1,6 @@
+#! /bin/sh
+
+
+# savior
+cd /home/savior/tools/navicat112_mysql_en_x64
+LC_CTYPE=zh_CN.UTF-8   ./start_navicat
