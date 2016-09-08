@@ -108,6 +108,17 @@ function cds() {
     fi
 }
 
+
+
+function settitle(){
+  COMMAND=${@}
+    trap ' echo -ne "\033]0;${COMMAND}\007"' DEBUG
+}
+
+
+    
+
+
 . ~/system-config/bin/my-rsync
 . ~/system-config/bin/.gitx
 
