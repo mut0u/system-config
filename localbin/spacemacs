@@ -1,3 +1,0 @@
-echo "this is local emacs"
-
-LC_CTYPE=zh_CN.UTF-8 HOME=$HOME/github.respo/  /usr/bin/emacs
