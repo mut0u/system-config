@@ -6,4 +6,5 @@ else
     WORD="$(xsel -ob)"
 fi
 
+
 google-chrome "http://dict.youdao.com/w/eng/${WORD}"

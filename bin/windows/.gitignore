@@ -3,3 +3,4 @@ debug.log
 *.pyc
 davmail.log*
 fglog.txt
+.cabal-sandbox
