@@ -12,6 +12,7 @@ alias rm='rm -i'
 alias mkgtags='mkgtags -i -v'
 alias bcd=cd_beagrep
 alias mail=mailx
+alias file-manager=nautilus
 
 for x in ~/system-config/etc/bash.d/*; do
     if test -f $x; then
