@@ -15,4 +15,4 @@ modules.order
 *.pyc
 *.elc
 .~lock*
-core
+##core
